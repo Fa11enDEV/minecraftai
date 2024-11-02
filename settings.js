@@ -1,7 +1,7 @@
 export default 
 {
     "minecraft_version": "1.21.1", // supports up to 1.21.1
-    "host": "127.0.0.1", // or "localhost", "your.ip.address.here"
+    "host": "192.168.0.11", // or "localhost", "your.ip.address.here"
     "port": 11111,
     "auth": "offline", // or "microsoft"
     
