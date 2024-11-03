@@ -6,7 +6,7 @@ export default
     "auth": "offline", // or "microsoft"
     
     "profiles": [
-        "./andy.json",
+        "./WardenAI.json",
         //"./profiles/gpt.json",
         // "./profiles/claude.json",
         // "./profiles/gemini.json",
